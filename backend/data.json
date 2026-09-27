@@ -1,0 +1,12 @@
+{
+  "users": [],
+  "orders": [],
+  "products": [
+    {"id":"p1","name":"AeroFit Running Shoes","category":"Footwear","price":2499,"rating":4.7,"stock":18,"image":"https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80","description":"Lightweight everyday running shoes with breathable mesh and responsive cushioning."},
+    {"id":"p2","name":"Urban Classic Hoodie","category":"Fashion","price":1499,"rating":4.5,"stock":25,"image":"https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&w=900&q=80","description":"Soft cotton-blend hoodie designed for comfortable everyday wear."},
+    {"id":"p3","name":"Pulse Pro Headphones","category":"Electronics","price":3299,"rating":4.8,"stock":12,"image":"https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80","description":"Wireless over-ear headphones with rich audio, deep bass and long battery life."},
+    {"id":"p4","name":"Minimal Steel Watch","category":"Accessories","price":2199,"rating":4.4,"stock":9,"image":"https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&w=900&q=80","description":"Clean stainless-steel watch with a minimalist dial for everyday styling."},
+    {"id":"p5","name":"Everyday Backpack","category":"Bags","price":1899,"rating":4.6,"stock":21,"image":"https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80","description":"Spacious water-resistant backpack with laptop compartment and organizer pockets."},
+    {"id":"p6","name":"Smart Desk Lamp","category":"Home","price":1299,"rating":4.3,"stock":16,"image":"https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=900&q=80","description":"Adjustable LED desk lamp with warm and cool lighting modes."}
+  ]
+}
