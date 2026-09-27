@@ -1,0 +1,5 @@
+{
+  "name":"shopnest-ecommerce",
+  "private":true,
+  "scripts":{"backend":"npm --prefix backend run dev","frontend":"npm --prefix frontend run dev"}
+}
